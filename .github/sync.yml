@@ -1,2 +1,3 @@
 Aficionado45/electron-explorer@master:
-      - .src/App.js
+      # - ./src/App.js
+      - test.txt
